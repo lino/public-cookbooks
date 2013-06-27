@@ -4,3 +4,9 @@
 [submodule "mongodb"]
 	path = mongodb
 	url = https://github.com/edelight/chef-mongodb.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git

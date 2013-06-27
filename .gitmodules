@@ -1,0 +1,6 @@
+[submodule "nodejs"]
+	path = nodejs
+	url = https://github.com/mdxp/nodejs-cookbook.git
+[submodule "mongodb"]
+	path = mongodb
+	url = https://github.com/edelight/chef-mongodb.git
